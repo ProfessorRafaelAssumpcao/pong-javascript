@@ -1,3 +1,3 @@
-# introdu-o-javascript
+# introducao-javascript
 
 Equipe Professor Rafael
