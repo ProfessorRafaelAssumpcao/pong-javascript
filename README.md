@@ -1,3 +1,3 @@
-# introducao-javascript
+# pong-javascript
 
-Equipe Professor Rafael
+Professor Rafael
