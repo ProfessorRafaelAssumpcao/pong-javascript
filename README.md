@@ -2,7 +2,7 @@
 
 Jogo desenvolvido utilizando a linguagen JavaScript através do editor *p5.js* (https://editor.p5js.org/).
 
-A realização do jogo foi proposta durante as aulas do componente curricular Pensamento Computacional, com auxílio do curso *"Jogos clássicos parte 1: iniciando no Javascript com Pong"* (https://cursos.alura.com.br/course/pong-javascript) disponível na plataforma *Alura*.
+A realização do jogo foi proposta durante as aulas do componente curricular Pensamento Computacional, com auxílio do curso *"Jogos clássicos parte 1: iniciando no Javascript com Pong"*, disponível na plataforma *Alura* (https://cursos.alura.com.br/course/pong-javascript).
 
 ## Instruções: 
 
