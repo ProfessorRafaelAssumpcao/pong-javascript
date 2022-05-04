@@ -8,4 +8,9 @@ A realização do jogo foi proposta durante as aulas do componente curricular Pe
 
 A **raquete 1** se movimenta com o uso das setas ⬆️ (para cima) e ⬇️ (para baixo). A **raquete 2** se movimenta com uma certa dose de inteligência.
 
+## Linguagem
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 Professor Rafael
